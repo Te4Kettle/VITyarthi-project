@@ -112,7 +112,4 @@ This project is created for **educational and academic use**.
 
 ---
 
-✅ **Project Status: Fully Functional & Tested**
-
-
-🏴‍☠️**Author - Anadi Rahore**
+🏴‍☠️**Author - Anadi Rathore**

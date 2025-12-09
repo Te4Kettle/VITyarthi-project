@@ -106,10 +106,8 @@ If the `students.json` file becomes corrupted or is in old format, the system:
 
 ---
 
-## 📜 License
-
-This project is created for **educational and academic use**.
+## 🏴‍☠️ **THE END**
 
 ---
 
-🏴‍☠️ **THE END**
+
